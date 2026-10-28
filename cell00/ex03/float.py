@@ -1,7 +1,6 @@
-user_input = input("Give me a number: ")
-number = float(user_input)
+user_input = float(input("Give me a number: "))
 
-if number.is_integer():
+if user_input.is_integer():
     print("This number is an integer")
 else:
     print("This number is a decimal")
