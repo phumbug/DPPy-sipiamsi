@@ -5,6 +5,8 @@ print("Thank you!")
 
 print(f" {int(num1)} + {int(num2)} = {int(num1 + num2)}")
 print(f" {int(num1)} - {int(num2)} = {int(num1 - num2)}")
-print(f" {int(num1)} * {int(num2)} = {int(num1 * num2)}")
 print(f" {int(num1)} / {int(num2)} = {int(num1 / num2)}")
+print(f" {int(num1)} * {int(num2)} = {int(num1 * num2)}")
+
+
 

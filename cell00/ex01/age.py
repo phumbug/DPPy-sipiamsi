@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 age_str = input("Please tell me your age: ")
 age = int(age_str)
 
